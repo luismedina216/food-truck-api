@@ -11,6 +11,8 @@
 Once you have docker installed, it is necessary to execute the following commands in the project path
 
     cp .env.example .env
+    
+    chmod +x docker/entrypoint.sh
 
     docker compose up -d
 
