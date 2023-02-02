@@ -5,6 +5,8 @@
 * docker
     * It's needed to install [docker client](https://docs.docker.com/get-docker/)
     * It's needed to install [docker compose](https://docs.docker.com/compose/install/)
+* Git bash for Windows users
+    * It's recommended to use [git bash](https://gitforwindows.org/) to run the followng commands
 
 ## Installation
 
